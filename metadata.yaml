@@ -1,0 +1,40 @@
+_repo: Skyrider_16871
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Fischer, Anton Otto
+    birthdate: 1882
+    deathdate: 1962
+    gutenberg_agent_id: '8526'
+    url: http://www.gutenberg.org/2009/agents/8526
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bower, B. M.
+    aliases:
+    - Sinclair, Bertha Muzzy
+    - Sinclair, B. M. (Bertha Muzzy)
+    birthdate: 1874
+    deathdate: 1940
+    gutenberg_agent_id: '275'
+    url: http://www.gutenberg.org/2009/agents/275
+description: What do hard-living cowboys and daredevil airplane pilots have in common?
+  According to B.M. Bower's Skyrider, these groups share an inborn craving for adventure
+  that sets them apart from the rest of the world. Johnny Jewel, a cowhand given to
+  daydreaming, is determined to pursue his hope of becoming a pilot at all costs.
+gutenberg_bookshelf: Western
+gutenberg_issued: '2005-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16871'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Western stories'
+title: Skyrider
+url: http://www.gutenberg.org/ebooks/16871
